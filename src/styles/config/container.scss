@@ -1,0 +1,15 @@
+
+@import "./reset.scss";
+
+.container {
+	width: 100%;
+    height: auto;
+    background-color: green;
+	border: 1px solid red;
+}
+.container-max{
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 100px;
+    background-color: yellow;
+}
